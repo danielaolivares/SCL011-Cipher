@@ -1,1 +1,429 @@
 /* Acá va tu código */
+.son input{
+    display: block;
+   
+    text-align:right;
+  }
+  .father{
+   display: flex;
+   text-align: center;
+   justify-content: center
+  }
+  body{
+    background-image: url(https://image.freepik.com/vector-gratis/esquema-libros-fondo-marco-tapa-manzana-graduacion_24640-45271.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Fredoka One', cursive;
+  }
+  #pagOne {
+   text-align: center;
+   align-content: center; 
+  padding-top: 200px;
+   }
+  #pagTwo{
+    text-align:center;
+    padding-top: 200px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 25px;
+  }
+  #pagThree{
+    text-align:center;
+    padding-top: 200px;
+      font-size: 34px;
+      padding-right: 44px;
+      padding-left: 44px;    
+  }
+  #pagFour{
+    text-align:center;
+    padding-top: 21px;
+    padding-right: 44px;
+    padding-left: 44px;  
+  }
+  #titleOne{
+    font-size: 50px;
+  }
+  #pagFive{
+    text-align:center;
+    padding-top: 21px;
+    padding-right: 44px;
+    padding-left: 44px;  
+  }
+  #pagSix{
+    text-align:center;
+    padding-top: 21px;
+    padding-right: 44px;
+    padding-left: 44px; 
+  }
+  #pagSeven{
+    text-align:center;
+    padding-top: 202px;
+    padding-right: 44px;
+    padding-left: 44px; 
+  }
+  #buttonStart {
+    background-color: #f1bdff;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnFeet {
+    background-color: #ffa2a2;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnDarknees{
+    background-color: #9cbcff;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnStars{
+    background-color: #bfffd0;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnDecodeOne{
+    background-color: #ffde9f;
+    font-family: 'Fredoka One', cursive;
+    display: inline;
+  }
+  #btnHeart{
+    background-color: #f1bdff;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnEyelids{
+    background-color: #bfffd0;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnLizard {
+    background-color: #9cbcff;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnFinger {
+    background-color: #ffa2a2;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnDecodeTwo{
+    background-color: #ffde9f;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnBat{
+    background-color: #ffa2a2;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnNumberNine {
+    background-color: #ffde9f;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnTraffic {
+    background-color:	#f1bdff;
+    font-family: 'Fredoka One', cursive;
+  }
+  #btnDecodeThree {
+    background-color: #ffde9f;
+    font-family: 'Fredoka One', cursive;
+  }
+  #play {
+    background-color:#bfffd0;
+    font-family: 'Fredoka One', cursive;
+    }
+  #name{
+      background-color:#f1bdff;
+    font-family: 'Fredoka One', cursive;
+    }
+  #btnContinue {
+    background-color:#bfffd0;
+    font-family: 'Fredoka One', cursive;
+  }
+  #numbers{
+    background-color:#bfffd0;
+    font-family: 'Fredoka One', cursive;
+  }
+  #pageFive {
+    background-color:#bfffd0;
+    font-family: 'Fredoka One', cursive;
+  }
+  #pageSix {
+    background-color:#bfffd0;
+    font-family: 'Fredoka One', cursive;
+  }
+  #end {
+    background-color:#bfffd0;
+    font-family: 'Fredoka One', cursive;
+  }
+  #back {
+    background-color:#bfffd0;
+    font-family: 'Fredoka One', cursive;
+  }
+  #MensaggeOneSecret{
+    background: #e7e26e;
+    height: 50px;
+    padding-top: 20px ;
+  }
+  #MensaggeTwoSecret{
+    background: #e7e26e;
+    height: 50px;
+    padding-top: 20px ;
+  }
+  #MensaggeThreeSecret{
+    background: #e7e26e;
+    height: 50px;
+    padding-top: 20px ;
+  }
+  #feet {
+    background-color:  #ffa2a2;
+  }
+  #oneInputFeet{
+    background-color:  #ffa2a2;
+  }
+  #twoInputFeet{
+    background-color:  #ffa2a2;
+  }
+  #threeInputFeet{
+    background-color:  #ffa2a2;
+  }
+  #fourInputFeet{
+    background-color:  #ffa2a2;
+  }
+  #dark
+  {background-color:  #9cbcff;
+  }
+  #oneInputDark{
+    background-color:  #9cbcff;
+  }
+  #twoInputDark{
+    background-color:  #9cbcff;
+  }
+  #threeInputDark{
+    background-color:  #9cbcff;
+  }
+  #fourInputDark{
+    background-color:  #9cbcff;
+  }
+  #fiveInputDark{
+    background-color:  #9cbcff;
+  }
+  #sixInputDark{
+    background-color:  #9cbcff;
+  }
+  #sevenInputDark{
+    background-color:  #9cbcff;
+  }
+  #eigthInputDark{
+    background-color:  #9cbcff;
+  }
+  #nineInputDark{
+    background-color:  #9cbcff;
+  }
+  #stars{
+    background-color:  #bfffd0;
+  }
+  #oneInputStar{
+    background-color: #bfffd0;
+  }
+  #twoInputStar{
+    background-color: #bfffd0;
+  }
+  #threeInputStar{
+    background-color: #bfffd0;
+  }
+  #fourInputStar{
+    background-color: #bfffd0;
+  }
+  #fiveInputStar{
+    background-color: #bfffd0;
+  }
+  #sixInputStar{
+    background-color: #bfffd0;
+  }
+  #sevenInputStar{
+    background-color: #bfffd0;
+  }
+  #eigthInputStar{
+    background-color: #bfffd0;
+  }
+  #nineInputStar{
+    background-color: #bfffd0;
+  }
+  #titleTwo{
+    font-size: 50px;
+  }
+  #titleThree{
+    font-size: 50px;
+  }
+  #titleEnd{
+    font-size: 50px;
+  }
+  #heart{
+    background-color: #f1bdff;
+  }
+  #oneInputHeart{
+    background-color: #f1bdff;
+  }
+  #twoInputHeart{
+    background-color: #f1bdff;
+  }
+  #threeInputHeart{
+    background-color: #f1bdff;
+  }
+  #fourInputHeart{
+    background-color: #f1bdff;
+  }
+  #fiveInputHeart{
+    background-color: #f1bdff;
+  }
+  #sixInputHeart{
+    background-color: #f1bdff;
+  }
+  #sevenInputHeart{
+    background-color: #f1bdff;
+  }
+  #eyelids{
+    background-color: #bfffd0;
+  }
+  #oneInputEyelids{
+    background-color: #bfffd0;
+  }
+  #twoInputEyelids{
+    background-color: #bfffd0;
+  }
+  #threeInputEyelids{
+    background-color: #bfffd0;
+  }
+  #fourInputEyelids{
+    background-color: #bfffd0;
+  }
+  #fiveInputEyelids{
+    background-color: #bfffd0;
+  }
+  #sixInputEyelids{
+    background-color: #bfffd0;
+  }
+  #sevenInputEyelids{
+    background-color: #bfffd0;
+  }
+  #eigthInputEyelids{
+    background-color: #bfffd0;
+  }
+  #lizard{
+    background-color: #9cbcff;
+  }
+  #oneInputLizard{
+    background-color: #9cbcff;
+  }
+  #twoInputLizard{
+    background-color: #9cbcff;
+  }
+  #threeInputLizard{
+    background-color: #9cbcff;
+  }
+  #fourInputLizard{
+    background-color: #9cbcff;
+  }
+  #fiveInputLizard{
+    background-color: #9cbcff;
+  }
+  #sixInputLizard{
+    background-color: #9cbcff;
+  }
+  #sevenInputLizard{
+    background-color: #9cbcff;
+  }
+  #eigthInputLizard{
+    background-color: #9cbcff;
+  }
+  #nineInputLizard{
+    background-color: #9cbcff;
+  }
+  #finger{
+    background-color: #ffa2a2;
+  }
+  #oneInputFinger{
+    background-color: #ffa2a2;
+  }
+  #twoInputFinger{
+    background-color: #ffa2a2;
+  }
+  #threeInputFinger{
+    background-color: #ffa2a2;
+  }
+  #fourInputFinger{
+    background-color: #ffa2a2;
+  }
+  #fiveInputFinger{
+    background-color: #ffa2a2;
+  }
+  #bat{
+    background-color: #ffa2a2;
+  }
+  #oneInputBat{
+    background-color: #ffa2a2
+  }
+  #twoInputBat{
+    background-color: #ffa2a2;
+  }
+  #threeInputBat{
+    background-color: #ffa2a2;
+  }
+  #fourInputBat{
+    background-color: #ffa2a2;
+  }
+  #fiveInputBat{
+    background-color: #ffa2a2;
+  }
+  #sixInputBat{
+    background-color: #ffa2a2;
+  }
+  #sevenInputBat{
+    background-color: #ffa2a2;
+  }
+  #eigthInputBat{
+    background-color: #ffa2a2;
+  }
+  #nineInputBat{
+    background-color: #ffa2a2;
+  }
+  #tenInputBat{
+    background-color: #ffa2a2;
+  }
+  #numberNine{
+    background-color: #ffde9f;
+  }
+  #oneInputNumberNine{
+    background-color: #ffde9f;
+  }
+  #twoInputNumberNine{
+    background-color: #ffde9f;
+  }
+  #threeInputNumberNine{
+    background-color: #ffde9f;
+  }
+  #fourInputNumberNine{
+    background-color: #ffde9f;
+  }
+  #fiveInputNumberNine{
+    background-color: #ffde9f;
+  }
+  #traffic{
+    background-color: #f1bdff;
+  }
+  #oneInputTraffic{
+    background-color: #f1bdff;
+  }
+  #twoInputTraffic{
+    background-color: #f1bdff;
+  }
+  #threeInputTraffic{
+    background-color: #f1bdff;
+  }
+  #fourInputTraffic{
+    background-color: #f1bdff;
+  }
+  #fiveInputTraffic{
+    background-color: #f1bdff;
+  }
+  #sixInputTraffic{
+    background-color: #f1bdff;
+  }
+  #sevenInputTraffic{
+    background-color: #f1bdff;
+  }
+  #eigthInputTraffic{
+    background-color: #f1bdff;
+  }

@@ -1,13 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
   <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    
+    <title>El mensaje del Cesar</title>
+    <link href="https://fonts.googleapis.com/css?family=Fredoka+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css"> 
   </head>
   <body>
     <div id="root">
-      <h1>Hola mundo!</h1>
+      <div id="pagOne">
+        <h1> EL MENSAJE SECRETO</h1>
+        <p>"Hemos encontrado una carta con tres mensajes secretos, ¿ Nos puedes ayudar a decifrar los mensajes?</p>
+        <div>¿ Cual es tu nombre?</div><!-- pedir nombre para recatarlo luego-->
+        <input type="text"  name="name" id="name" placeholder="Nombre" >
+        <button id="buttonStart">COMENZAR</button>
+    </div>
+    
+    <div id="pagTwo"></div>
+    <div id="pagThree"></div>
+    <div id="pagFour"></div>
+    <div id="pagFive"></div>
+    <div id="pagSix"></div>
+    <div id="pagSeven"></div>       
     </div>
     <script src="cipher.js"></script>
     <script src="index.js"></script>

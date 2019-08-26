@@ -1,7 +1,30 @@
 versión 1.0 15/08/2019
-# Readme El mensaje secreto
+# El mensaje secreto
 
   Este proyecto fue creado por **Daniela Olivares**
+
+
+#####¿Quieres que tus hijos encuentren una forma divertida de ejercitar su memoria? 
+ En esta aplicación encontraras la solución, te presentamos el mensaje secreto.
+
+ * Este producto esta pensado para niños de 8 a 13 años aproximadamente.
+
+  *Esta página web es un juego de adivinanzas dinámico y entrenido,  en la primera página
+    esta la presentacion del juego en donde pide el nombre del usuario.
+
+- En la segunda página esta el saludo al usuario y la explicación del juego de manera fácil y sencilla.
+
+- En la tercera parte se pide un número (_offset_) al azar del 1 al 9 para decifrar el código secreto.
+
+- Ya en la tercera, cuarta y quinta página hay adivinanzas que debe responder, y con estas respuestas se realizara el cifrado, cada letra del cifrado contiene un número que sera reemplazada en el mensaje secreto, el cual una vez completo se podra decifrar.
+
+- Al finalizar todo los mensajes decifrados, se felicita y agradece al usuario por participar del juego y se le da la opción de volver a jugar.
+
+
+
+
+
+
 ##Flujo
 ![Flujo](https://i.ibb.co/Hh1KRTs/flujo-secretos-del-cesar.jpg)
 
@@ -31,17 +54,7 @@ versión 1.0 15/08/2019
 
 
 
-* Este produco esta pensado para niños de 8 a 13 años aproximadamente.
 
-* Esta página web es un juego de adivinanzas dinámico y entrenido,  en la primera página esta la presentacion del juego en donde pide el nombre del usuario.
-
-- En la segunda página esta el saludo al usuario y la explicación del juego de manera fácil y sencilla.
-
-- En la tercera parte se pide un número (_offset_) al azar del 1 al 9 para decifrar el código secreto.
-
-- Ya en la tercera, cuarta y quinta página hay adivinanzas que debe responder, y con estas respuestas se realizara el cifrado, cada letra del cifrado contiene un número que sera reemplazada en el mensaje secreto, el cual una vez completo se podra decifrar.
-
-- Al finalizar todo los mensajes decifrados, se felicita y agradece al usuario por participar del juego y se le da la opción de volver a jugar.
 
 
 * Esta pagina web no cumple la función de resolver o solucionar una necesidad, si no , crear un juego no violento, que potencia la memoria, ayuda en el aprendizaje de nuevas palabras y ayuda al ejercicio mental.
@@ -51,3 +64,6 @@ versión 1.0 15/08/2019
 - Cuando el usuario se equivoque o tome mucho tiempo en contestar va a aparecer un mensaje de aliento y una pista
 (_Ejemplo:_) Estas cerca, no te rindas!!! y una pista.
 - Una versión responsive, para que se pueda jugar en pantalla mobile.
+
+
+# Puedes jugar en esta dirección: https://danielaolivares.github.io/SCL011-Cipher/src/index.html
